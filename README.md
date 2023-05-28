@@ -1,6 +1,5 @@
-# CRUD WEB APPLICATION (CCC181 Assignment)
+# CRUD WEB APPLICATION
 
-![crudwebapp]
 ## FEATURES
 - Display data
 - Add data
